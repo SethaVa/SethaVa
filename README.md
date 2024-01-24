@@ -40,8 +40,8 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sethava&show_icons=true&locale=en" alt="sethava" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethava&" alt="sethava" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sethava&show_icons=true&locale=en" alt="sethava" width="500" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethava&" alt="sethava" width="500" />
 </div>
 
 
